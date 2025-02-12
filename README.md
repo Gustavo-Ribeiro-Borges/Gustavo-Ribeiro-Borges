@@ -2,7 +2,11 @@
 
 ### About me:
 
-<p align="left">Olá! Sou o Gustavo, estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas na Fatec Carapicuíba, com uma paixão crescente por tecnologia e inovação. Recentemente, me apaixonei pela área de Front-End e estou decidido a seguir e me especializar nessa área. Atualmente, estou me aprofundando nas linguagens HTML e CSS, essenciais para a criação de interfaces de usuário atraentes e funcionais. Além disso, estou começando meu aprendizado em JavaScript para expandir minhas habilidades em desenvolvimento front-end e em Python para diversificar ainda mais meu conjunto de habilidades técnicas. <br><br>Com uma mentalidade proativa e uma forte predisposição para aprender, estou preparado para enfrentar desafios reais e contribuir de forma significativa para projetos de desenvolvimento. Meu objetivo é ingressar no mercado de trabalho, aplicar meus conhecimentos de maneira prática e estratégica, e colaborar no crescimento da empresa, ao mesmo tempo em que evoluo como profissional. Estou motivado para transformar problemas em soluções eficientes e agregar valor ao time com meu desempenho e dedicação.
+<p align="left">Olá! Sou Gustavo, estudante de Análise e Desenvolvimento de Sistemas na Fatec Carapicuíba e Jovem Aprendiz na Flash Benefícios, onde atuo na área de Produto. Tenho uma paixão crescente por tecnologia, dados e inovação, sempre buscando expandir minhas habilidades para me destacar na área de TI. </br>
+
+Atualmente, estou me especializando em análise de dados com ferramentas como SQL, Excel, Power BI e Python, além de possuir noções em desenvolvimento Front-End com HTML, CSS e JavaScript. Minha formação e experiência me preparam para criar soluções práticas e eficientes, aliando tecnologia e inovação. </br>
+
+Estou em busca de uma vaga de estágio em TI, onde possa aplicar e expandir meu conhecimento em um ambiente profissional, enfrentar desafios reais e contribuir significativamente para projetos de desenvolvimento. Com uma mentalidade proativa, uma forte disposição para aprender e um perfil analítico, estou pronto para enfrentar desafios e colaborar no crescimento da empresa enquanto evoluo como profissional.
 
 ### Technologies and tools:
 
