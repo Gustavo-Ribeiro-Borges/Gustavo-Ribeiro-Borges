@@ -7,10 +7,10 @@ Atualmente, estou aprofundando meus estudos e experiências práticas para me to
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-borgess)
 
-## 🚀 Projetos de Data Analytics
+<!-- ## 🚀 Projetos de Data Analytics
 
 - **PROJETO 1:** Nome do Projeto 1 – Pequena descrição ou [link para repositório](#)
-- **PROJETO 2:** Nome do Projeto 2 – Pequena descrição ou [link para repositório](#)
+- **PROJETO 2:** Nome do Projeto 2 – Pequena descrição ou [link para repositório](#) -->
 
 ---
 
